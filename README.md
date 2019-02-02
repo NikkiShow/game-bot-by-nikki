@@ -1,1 +1,1 @@
-# game-bot-by-nikki
+# vk-bot
